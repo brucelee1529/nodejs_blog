@@ -1,0 +1,27 @@
+{
+  "name": "blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "WATCHPACK_POLLING=true index.js",
+  "scripts": {
+    "start": "nodemon index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/brucelee1529/nodejs_blog.git"
+  },
+  "keywords": [
+    "blog"
+  ],
+  "author": "trancuong",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/brucelee1529/nodejs_blog/issues"
+  },
+  "homepage": "https://github.com/brucelee1529/nodejs_blog#readme",
+  "dependencies": {
+    "express": "^4.21.2",
+    "nodemon": "^3.1.9"
+  }
+}
