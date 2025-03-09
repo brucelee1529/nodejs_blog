@@ -1,0 +1,15 @@
+@import 'variables';
+
+.test {
+    color: $green-color;
+}
+
+h1 {
+    color: $red-color;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+h2 {
+    color: $green-color;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
